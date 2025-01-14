@@ -1,0 +1,17 @@
+body {
+    display: flex;   
+    background-image: url("/PROJECT(html+css)/image.png");
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 0;
+}
+.alert{
+    padding: 20px;
+    
+}
+.closebtn{
+    margin-left: 15px;
+
+}
